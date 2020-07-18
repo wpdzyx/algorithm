@@ -1,0 +1,52 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+EQ	intPalindromic.c	7;"	d	file:
+ListNode	addTwoNumbers.c	/^struct ListNode {$/;"	s	file:
+Node	Palindromic.c	/^typedef struct Node$/;"	s	file:
+_node	intPalindromic.c	/^typedef struct _node$/;"	s	file:
+addTwoNumbers	addTwoNumbers.c	/^struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2){$/;"	f
+array2List	addTwoNumbers.c	/^struct ListNode* array2List(int array[],int arrayLen)$/;"	f
+bool	intPalindromic.c	4;"	d	file:
+false	intPalindromic.c	6;"	d	file:
+func	revert.c	/^int func(int si_a, int si_b)$/;"	f
+initList	addTwoNumbers.c	/^struct ListNode* initList(struct ListNode* pl,int depth)$/;"	f
+int2Link	reverseInteger.c	/^struct node *int2Link(int x)$/;"	f
+int2link	intPalindromic.c	/^node* int2link(int x)$/;"	f
+isPalindrome	intPalindromic.c	/^bool isPalindrome(int x){$/;"	f
+linkDepth	addTwoNumbers.c	/^int linkDepth(struct ListNode* ln)$/;"	f
+linkDepth	intPalindromic.c	/^int linkDepth(node* nd)$/;"	f
+linkDepth	reverseInteger.c	/^int linkDepth(struct node *pNode)$/;"	f
+list2Array	addTwoNumbers.c	/^int* list2Array(struct ListNode* list)$/;"	f
+longestPalindrome	Palindromic.c	/^char* longestPalindrome(char *s)$/;"	f
+main	Palindromic.c	/^int main()$/;"	f
+main	addTwoNumbers.c	/^int main()$/;"	f
+main	intPalindromic.c	/^int main()$/;"	f
+main	parameter.c	/^int main()$/;"	f
+main	pool.c	/^int main()$/;"	f
+main	reverseInteger.c	/^int main()$/;"	f
+main	revert.c	/^int main()$/;"	f
+max	parameter.c	/^int max(int a,int b)$/;"	f
+maxArea	pool.c	/^int maxArea(int* height, int heightSize)$/;"	f
+next	Palindromic.c	/^    struct Node *next;$/;"	m	struct:Node	typeref:struct:Node::Node	file:
+next	addTwoNumbers.c	/^    struct ListNode *next;$/;"	m	struct:ListNode	typeref:struct:ListNode::ListNode	file:
+next	intPalindromic.c	/^    struct _node* next;$/;"	m	struct:_node	typeref:struct:_node::_node	file:
+next	reverseInteger.c	/^    struct node *next;$/;"	m	struct:node	typeref:struct:node::node	file:
+node	Palindromic.c	/^} node;$/;"	t	typeref:struct:Node	file:
+node	intPalindromic.c	/^}node;$/;"	t	typeref:struct:_node	file:
+node	reverseInteger.c	/^struct node$/;"	s	file:
+prev	intPalindromic.c	/^    struct _node* prev;$/;"	m	struct:_node	typeref:struct:_node::_node	file:
+prtlink	Palindromic.c	/^int prtlink(node *link)$/;"	f
+reverse	reverseInteger.c	/^int reverse(int x)$/;"	f
+reverse	revert.c	/^int reverse(int x)$/;"	f
+str2link	Palindromic.c	/^node *str2link(char *s)$/;"	f
+swap	parameter.c	/^int swap(int a,int b)$/;"	f
+swapAB	parameter.c	/^int swapAB(int* a,int* b)$/;"	f
+true	intPalindromic.c	5;"	d	file:
+val	Palindromic.c	/^    char val;$/;"	m	struct:Node	file:
+val	addTwoNumbers.c	/^    int val;$/;"	m	struct:ListNode	file:
+val	intPalindromic.c	/^    int val;$/;"	m	struct:_node	file:
+val	reverseInteger.c	/^    int val;$/;"	m	struct:node	file:
